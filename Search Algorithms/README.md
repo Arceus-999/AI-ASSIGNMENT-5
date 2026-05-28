@@ -32,7 +32,7 @@ Because Tic-Tac-Toe has a relatively small search space, Minimax can fully explo
 
 ---
 
-## 2. Alpha-Beta Pruning (`alphabeta.c`)
+## 2. Alpha-Beta Pruning 
 
 This version improves Minimax by adding Alpha-Beta pruning.
 
