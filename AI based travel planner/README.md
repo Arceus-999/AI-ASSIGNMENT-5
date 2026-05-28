@@ -173,4 +173,119 @@ Example:
 ```text
 Total Projected Cost : $2450
 ```
+# Sample Output
+
+```text
+==================================================
+          GENERATED PERSONALIZED ITINERARY        
+==================================================
+Destination : Bordeaux Region
+Duration    : 3 Days
+Budget Level: Balanced
+Diet        : Standard
+--------------------------------------------------
+
+[DAY 1]
+  10:00 AM : La Cite du Vin
+             (Explore the modern interactive museum dedicated to wine heritage.)
+
+  02:30 PM : Cap Ferret Oyster Farms
+             (Savour fresh oysters right at local fishermen cabins.)
+
+  07:30 PM : Gastronomic Pairing Dinner
+             Signature Dish: Magret de Canard
+             (Pan-seared duck breast with a rich red wine reduction)
+
+             Beverage Match: Pauillac Grand Cru
+
+             Tasting Profile:
+             Deep ruby-black, full-bodied with structured tannins,
+             tobacco leaf, and cedar wood notes.
+
+
+[DAY 2]
+  10:00 AM : Place de la Bourse
+             (Photograph the 18th-century palace reflected in the Water Mirror.)
+
+  02:30 PM : Saint-Emilion Village
+             (Wander through alleys and visit the monolithic church carved in solid rock.)
+
+  07:30 PM : Gastronomic Pairing Dinner
+             Signature Dish: Magret de Canard
+             (Pan-seared duck breast with a rich red wine reduction)
+
+             Beverage Match: Pauillac Grand Cru
+
+             Tasting Profile:
+             Deep ruby-black, full-bodied with structured tannins,
+             tobacco leaf, and cedar wood notes.
+
+
+[DAY 3]
+  10:00 AM : Dune of Pilat Climb
+             (Ascend Europe's tallest sand dune for a sunset over the Atlantic.)
+
+  02:30 PM : Medoc Wine Road (D2)
+             (Drive past legendary Chateaux like Margaux and Latour.)
+
+  07:30 PM : Gastronomic Pairing Dinner
+             Signature Dish: Magret de Canard
+             (Pan-seared duck breast with a rich red wine reduction)
+
+             Beverage Match: Pauillac Grand Cru
+
+             Tasting Profile:
+             Deep ruby-black, full-bodied with structured tannins,
+             tobacco leaf, and cedar wood notes.
+
+
+==================================================
+               COST ASSESSMENT ANALYSIS           
+==================================================
+
+Accommodation Tariff        : $552
+Gastronomy & Beverage Match : $293
+Activities & Tours          : $207
+Transit & Logistics         : $121
+
+----------------------------------------------
+
+Total Projected Cost        : $1173
+
+==================================================
+
+
+==================================================
+           KNOWLEDGE ONTOLOGY GRAPH MAP           
+==================================================
+
+[Bordeaux Region Context]
+        |
+        +---> [Attractions Linked:
+                La Cite du Vin,
+                Cap Ferret Oyster Farms]
+
+        |
+        +---> [Gastronomy Recommendation:
+                Magret de Canard]
+
+                   |
+                   v
+
+        [Wine: Pauillac Grand Cru
+         (Grapes: Cabernet Sauvignon,
+          Merlot, Cabernet Franc)]
+
+==================================================
+
+
+===============================
+       AETHERIA AI TRAVEL      
+===============================
+
+1. Create New Tour Plan
+2. Exit
+
+Enter choice (1-2):
+```
 
